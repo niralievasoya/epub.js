@@ -294,7 +294,8 @@ class Navigation {
 			"href": src,
 			"label": text,
 			"subitems" : subitems,
-			"parent" : parent
+			"parent" : parent,
+            "purchased" : !item.hasAttribute("purchased"),
 		};
 	}
 

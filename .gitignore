@@ -5,6 +5,12 @@ components
 node_modules
 bower_components
 books
-lib
 dist
 documentation/html
+.idea/*.xml
+.idea/dictionaries/eyuva_nirali.xml
+.idea/epub.js.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml

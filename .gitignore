@@ -5,7 +5,6 @@ components
 node_modules
 bower_components
 books
-dist
 documentation/html
 .idea/*.xml
 .idea/dictionaries/eyuva_nirali.xml
